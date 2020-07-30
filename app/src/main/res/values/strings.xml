@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Life</string>
+    <string name="welcome">早上好</string>
+    <string name="your_name">Administer</string>
+    <string name="quote" />
+    <string name="refresh_quote">一言</string>
+</resources>
